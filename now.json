@@ -1,18 +1,5 @@
 {
-  "version": 2,
-  "alias": [
-    "google.io",
-    "abc.google.io",
-    "iogoogle.io",
-    "nnnn",
-    "github-e2e-test-domain-issues-787",
-    "github-e2e-test-domain-issues-787.now.sh",
-    "github-e2e-test-domain-issues-787",
-    "amp10.tech",
-    "super.amp10.tech",
-    "zeit.co",
-    "https://hello.co"
-  ]
+  "version": 2
 }
 
 
